@@ -1,0 +1,40 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ben Nguyen",
+    "longName": "fuzzy.dotz",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/minute_hour.png",
+                "name": "MINUTE_HOUR",
+                "type": "png"
+            },
+            {
+                "file": "images/minute.png",
+                "name": "MINUTE",
+                "type": "png"
+            },
+            {
+                "file": "images/hour.png",
+                "name": "HOUR",
+                "type": "png"
+            },
+            {
+                "file": "images/bg.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "fuzzy.dotz",
+    "uuid": "3713240d-dd63-4592-908d-a56866e91d76",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
