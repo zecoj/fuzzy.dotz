@@ -9,6 +9,19 @@
     "resources": {
         "media": [
             {
+                "characterRegex": "[\u00a6%\u00a70-9a-zA-Z ]",
+                "file": "fonts/1Willy.ttf",
+                "name": "EXTRA_16",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/1Willy.ttf",
+                "name": "EXTRA_32",
+                "trackingAdjust": 1,
+                "type": "font"
+            },
+            {
                 "file": "images/minute_hour.png",
                 "name": "MINUTE_HOUR",
                 "type": "png"
@@ -33,7 +46,7 @@
     "shortName": "fuzzy.dotz",
     "uuid": "3713240d-dd63-4592-908d-a56866e91d76",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.4",
     "watchapp": {
         "watchface": true
     }
